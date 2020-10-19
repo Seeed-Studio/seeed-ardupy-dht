@@ -20,11 +20,11 @@ install:
 
 script: 
   - echo "CI Test"
-  - aip build --board=wio terminal 
+  - aip build 
   - aip install https://github.com/Seeed-Studio/seeed-ardupy-dht/archive/main.zip
   - cd  /home/travis/.config/aip/modules/
   - ls
-  - aip build --board=wio terminal 
+  - aip build 
   
 notifications:
 
