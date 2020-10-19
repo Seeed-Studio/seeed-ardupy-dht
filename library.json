@@ -1,0 +1,12 @@
+{
+    "name": "Seeed ArduPy DHT",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Seeed-Studio/seeed-ardupy-dht.git"
+    },
+    "dependencies": [{
+        "name": "Seeed_Arduino_DHT",
+        "url": "https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor.git"
+    }]
+}
