@@ -2,12 +2,16 @@
 
 ## Introduction
 
-This is the ArduPy library for Grove - Temperature & Humidity Sensor (DHT11). 
-Grove - DHT11 Temperature & Humidity Sensor is a high quality, low-cost digital temperature, and humidity sensor based on the DHT11 sensor. It uses the upgraded version of DHT11. The new version of the DHT11 module replaces resistive humidity components with capacitive humidity components. The temperature and humidity measurement range is wider and the temperature resolution is higher. 
+This is the ArduPy library for Temperature & Humidity Sensors based on DHT and AM series sensors.
 
-Learn more [here](https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html).
+Modules supported by this library:
+- [Grove - Temperature & Humidity Sensor (DHT11)](https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html)
+- [Grove - Temperature & Humidity Sensor Pro (DHT22/AM2302)](https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-Pro-AM2302-DHT22.html)
+- Other DHT10, DHT21 and AM2301 based sensor modules
 
-<p style="text-align:center;"><a href="https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html"><img src="https://static-cdn.seeedstudio.site/media/catalog/product/cache/9d0ce51a71ce6a79dfa2a98d65a0f0bd/g/r/grove-temperature-humidity-sensor-dht11-preview.png" width="450"></a></p>
+<a href="https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html"><img src="https://static-cdn.seeedstudio.site/media/catalog/product/cache/9d0ce51a71ce6a79dfa2a98d65a0f0bd/g/r/grove-temperature-humidity-sensor-dht11-preview.png" width="350"></a> <a href="https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-Pro-AM2302-DHT22.html"><img src="https://static-cdn.seeedstudio.site/media/catalog/product/cache/9d0ce51a71ce6a79dfa2a98d65a0f0bd/g/r/grove-temperature-humidity-sensor-pro-am2302-preview.png" width="350"></a>
+
+
 
 ## How to bind with ArduPy
 - Install [AIP](https://github.com/Seeed-Studio/ardupy-aip)
