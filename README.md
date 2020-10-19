@@ -1,4 +1,4 @@
-# Seeed ArduPy DHT [![Build Status](https://api.travis-ci.com/Seeed-Studio/seeed-ardupy-dht.svg?branch=master)](https://travis-ci.com/github/Seeed-Studio/seeed-ardupy-dht)
+# Seeed ArduPy DHT [![Build Status](https://api.travis-ci.com/Seeed-Studio/seeed-ardupy-dht.svg?branch=main)](https://travis-ci.com/github/Seeed-Studio/seeed-ardupy-dht)
 
 ## Introduction
 
