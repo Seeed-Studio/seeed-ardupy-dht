@@ -17,7 +17,7 @@ Modules supported by this library:
 - Install [AIP](https://github.com/Seeed-Studio/ardupy-aip)
 - Build firmware with Seeed ArduPy DHT
 ```shell
-aip install Seeed-Studio/seeed-ardupy-dht
+aip install Seeed-Studio/seeed-ardupy-dht/archive/main.zip
 aip build
 ```
 - Flash new firmware to you ArduPy board
